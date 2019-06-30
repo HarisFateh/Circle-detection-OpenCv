@@ -6,5 +6,7 @@ The purpose of this repository is to show a basic algorithm to detect circles in
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 > Step_1: Set path for the image from which cirles need to be detected
+
 > Step_2: Set path on which cropped images to be saved & with certain name tag on it. (like orange_1, orange_2, ...)
+
 > View: A window will open providing the overall detected cirlces from the image
